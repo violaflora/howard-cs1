@@ -1,0 +1,51 @@
+Mercy
+Number courses: 6
+course 1
+Credits: 3
+Grade: A
+course 2
+Credits: 3
+Grade: A
+course 3
+Credits: 1
+Grade: A
+course 4
+Credits: 2
+Grade: A
+course 5
+Credits: 4
+Grade: C
+course 6
+Credits: 3
+Grade: A
+Ben
+Number courses: 5
+course 1
+Credits: 3
+Grade: C
+course 2
+Credits: 3
+Grade: C
+course 3
+Credits: 3
+Grade: A
+course 4
+Credits: 4
+Grade: A
+course 5
+Credits: 3
+Grade: A
+Anthony
+Number courses: 4
+course 1
+Credits: 3
+Grade: B
+course 2
+Credits: 4
+Grade: B
+course 3
+Credits: 4
+Grade: F
+course 4
+Credits: 1
+Grade: A
