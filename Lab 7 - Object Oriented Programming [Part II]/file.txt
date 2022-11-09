@@ -1,0 +1,12 @@
+loretta
+girl
+30
+lavenia
+girl
+29
+lenora
+girl
+27
+andrew
+boy
+25
